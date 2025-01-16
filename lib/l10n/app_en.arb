@@ -1,0 +1,28 @@
+{
+  "titleLogin": "Log In",
+  "titleSignup": "Sign Up",
+  "labelFirstName": "First Name",
+  "labelLastName": "Last Name",
+  "labelDateOfBirth": "Date of Birth",
+  "labelPassword": "Password",
+  "labelEmail": "Email",
+  "labelBirthDay": "Date of Birth",
+  "labelSignup": "Sign Up",
+  "labelLogin": "Log In",
+  "labelLoginWithGmail": "Log in with Gmail",
+  "labelLoginWithFacebook": "Log in with Facebook",
+  "labelLoginWithApple": "Log in with Apple",
+  "labelOrLoginWith": "or log in with",
+  "fieldRequired": "Field required",
+  "errorInvalidField": "Invalid {fieldName}",
+  "@errorInvalidField": {
+    "description": "",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "First Name"
+      }
+    }
+  },
+  "submit": "Submit"
+}

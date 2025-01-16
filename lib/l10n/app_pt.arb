@@ -1,0 +1,28 @@
+{
+  "titleLogin": "Realize o Login",
+  "titleSignup": "Cadastro",
+  "labelFirstName": "Nome",
+  "labelLastName": "Sobrenome",
+  "labelDateOfBirth": "Data de Nascimento",
+  "labelPassword": "Senha",
+  "labelEmail": "E-mail",
+  "labelBirthDay": "Data de Nascimento",
+  "labelSignup": "Cadastrar",
+  "labelLogin": "Login",
+  "labelLoginWithGmail": "Login com Gmail",
+  "labelLoginWithFacebook": "Login com Facebook",
+  "labelLoginWithApple": "Login com Apple",
+  "labelOrLoginWith": "ou entre com",
+  "fieldRequired": "Campo obrigatório",
+  "errorInvalidField": "{fieldName} inválido",
+  "@errorInvalidField": {
+    "description": "",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Nome"
+      }
+    }
+  },
+  "submit": "Enviar"
+}
